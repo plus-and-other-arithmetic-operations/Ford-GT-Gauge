@@ -2,6 +2,8 @@
 
 A pro-bono project made for Axis' Ford GT mod.
 
+https://github.com/plus-and-other-arithmetic-operations/Ford-GT-Gauge/assets/88043761/36d4ce2e-64a4-4009-bf17-11b52ad97a01
+
 This gauge features the Ford GT's Sport & Track mode, with animated transitions between the 2.
 
 ## Setup
