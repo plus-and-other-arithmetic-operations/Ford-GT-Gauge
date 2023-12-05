@@ -6,6 +6,8 @@ This gauge features the Ford GT's Sport & Track mode, with animated transitions 
 
 ## Setup
 
+Install the required fonts (whittle & aria)
+
 Add the script entry into the car's ext_config
 
 ```ini
